@@ -27,7 +27,7 @@ function App() {
             </main>
             
             <footer style={{ backgroundColor: '#2D5A27', color: 'white', textAlign: 'center', padding: '1.5rem', marginTop: 'auto', borderTop: '4px solid #E6A100' }}>
-                <p className="mb-0">Hecho por: Carlos Donoso, Benjamín Herrera, Joahquin Morales, Sergio Moya</p>
+                <p className="mb-0">Hecho por: Benjamín Herrera, Joahquin Morales, Sergio Moya, Oswalys Carmona</p>
             </footer>
         </div>
     );
